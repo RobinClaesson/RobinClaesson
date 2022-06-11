@@ -1,4 +1,9 @@
-### Hi there 👋
+# Robin Claesson 
+Studying IT-Engineering with with a bachelors and master at KTH Royal Institute of Technology.
+
+AKA Code monkey in training ⌨️🐒
+
+[E-Portfolio](https://robinclaesson.github.io/)
 
 <!--
 **RobinClaesson/RobinClaesson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
