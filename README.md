@@ -1,7 +1,5 @@
 # Robin Claesson 
-Studying IT-Engineering with with a bachelors and master at KTH Royal Institute of Technology.
-
-AKA Code monkey in training ⌨️🐒
+Software Engineer
 
 ## [E-Portfolio](https://portfolio.robinclaesson.com/)
 
