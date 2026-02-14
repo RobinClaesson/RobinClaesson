@@ -1,5 +1,5 @@
 # Robin Claesson 
-Software Engineer
+Software Engineer aka Code Monkey ⌨️🐒
 
 ## [E-Portfolio](https://portfolio.robinclaesson.com/)
 
